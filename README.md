@@ -22,11 +22,3 @@ http://127.0.0.1:5000
 
 Actualmente el sistema se encuentra enfocado principalmente en el flujo público de reservas mediante links personalizados para cada negocio.
 
-Las futuras iteraciones consideran:
-
-Agenda avanzada sin choque de horarios.
-Sistema de pagos y abonos.
-Notificaciones mediante correo o SMS.
-Historial y cancelación de reservas.
-Exploración de negocios por localidad.
-Personalización visual completa de cada negocio.

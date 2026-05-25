@@ -5,7 +5,7 @@ Instalar las dependencias necesarias ejecutando en terminal:
 pip install flask pymysql
 Importar la base de datos MySQL mediante phpMyAdmin.
 Verificar la conexión de la base de datos dentro del archivo main.py.
-
+Renombrar base de datos.
 Ejemplo:
 
 conexion = pymysql.connect(
